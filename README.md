@@ -11,4 +11,4 @@ if you want to see images of how the breadboard looks and a demo video check my 
 
 the first project is code straight from the arduino projects book (project 04), the second project was based upon my original code for the phototransistor versjon, but then recoded to work with a thermometer 
 
-the only use of ai in this project was to learn how to make an color and temperature ratio. 
+Claude was used to debug. 
