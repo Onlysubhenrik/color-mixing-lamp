@@ -8,3 +8,7 @@ the first project is code for making an color changing lamp using photo transist
 the second project is code for making an temprature changing light based on the same work, only that this time the sensor that is used to determine the color of the RGB led is how hot and cold it is in the room.
 
 if you want to see images of how the breadboard looks and a demo video check my stardance projects https://stardance.hackclub.com/@Henrik_Eriksen/projects
+
+the first project is code straight from the arduino projects book (project 04), the second project was based upon my original code for the phototransistor versjon, but then recoded to work with a thermometer 
+
+the only use of ai in this project was to learn how to make an color and temperature ratio. 
